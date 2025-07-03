@@ -1,0 +1,45 @@
+absl-py
+astunparse
+cachetools
+certifi
+charset-normalizer
+clarifai==10.8.0  # Specifying clarifai version
+clarifai-grpc==10.8.7  # Specifying clarifai-grpc version
+configparser
+flatbuffers>=23.1.21
+future
+gast
+google-auth>=2.14.1,<3.0  # Ensure this is compatible with google-api-core
+google-auth-oauthlib
+google-pasta
+googleapis-common-protos
+grpcio
+h5py
+idna
+jsonschema
+keras
+Keras-Preprocessing
+libclang
+Markdown
+MarkupSafe
+numpy
+oauthlib
+opt-einsum
+packaging
+protobuf<5.0.0dev
+pyasn1
+pyasn1-modules
+requests
+requests-oauthlib
+rsa
+six
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow==2.13.0
+tensorflow-estimator
+termcolor
+typing_extensions
+urllib3
+Werkzeug
+wrapt
